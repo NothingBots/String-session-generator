@@ -1,8 +1,7 @@
 # String-session-generator 🚀  
 *(Pyrogram and telethon)*  
 
-![Bot Image]([https://via.placeholder.com/800x400](https://envs.sh/HM-.jpg
-))  
+![Bot Image]([https://via.placeholder.com/800x400](https://envs.sh/HM-.jpg])
 <!-- Replace the above URL with your image URL -->
 
 ---
